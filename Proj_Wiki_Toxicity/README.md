@@ -1,10 +1,3 @@
-Topics to go through for this project:
-1) D:\EpicGames\books_torrents\[Tutorialsplanet.NET] Udemy - Automate the Boring Stuff with Python Programming\10. Regular Expressions
-
-
-
-Project Target Description ->
-
 DESCRIPTION
 
 Using NLP and machine learning, make a model to identify toxic comments from the Talk edit pages on Wikipedia. Help identify the words that make a comment toxic.
